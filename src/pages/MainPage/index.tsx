@@ -8,7 +8,7 @@ export const MainPage = () => {
 			<Header />
 			<FilterSection>
 				<h1>Milhões de filmes, séries e pessoas para descobrir. Explore já.</h1>
-				<p>Filtre por:</p>
+				<p>Filtre por: File</p>
 			</FilterSection>
 			<MovieCard />
 		</Container>
